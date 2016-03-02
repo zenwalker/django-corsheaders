@@ -2,7 +2,7 @@ from corsheaders import __version__
 from setuptools import setup
 
 setup(
-    name='django-cors-middleware',
+    name='django-corsheaders',
     version=__version__,
     description='django-cors-middleware is a Django application for handling the server headers required for Cross-Origin Resource Sharing (CORS). Fork of django-cors-headers.',
     author='Zeste de Savoir',
